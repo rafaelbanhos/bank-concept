@@ -3,7 +3,7 @@ Bank Concept - N26
 A simple digital bank concept (N26)
 
 Show some ❤️ and ⭐️ the repo.
-![Alt text](https://github.com/rafaelbanhos/bank-concept/blob/master/assets/images/print.jpg)
+![Alt text](https://github.com/rafaelbanhos/bank-concept/blob/master/assets/images/print2.jpg)
 
 ## Getting Started
 
