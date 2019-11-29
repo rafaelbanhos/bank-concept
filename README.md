@@ -1,6 +1,8 @@
-# bank_concept
+Bank Concept - N26
 
-A simple digital bank concept
+A simple digital bank concept (N26)
+
+Show some ❤️ and ⭐️ the repo.
 
 ## Getting Started
 
