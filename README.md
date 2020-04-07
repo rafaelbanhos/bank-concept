@@ -3,6 +3,7 @@ Bank Concept - N26
 A simple digital bank concept (N26)
 
 Buy me a cup of Coffee😁
+
 Bitcoin => 16qBRw9DnN3gjbhQGYiLvJ2HADJFefjM65
 
 Show some ❤️ and ⭐️ the repo.
