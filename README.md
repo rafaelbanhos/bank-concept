@@ -4,7 +4,7 @@ A simple digital bank concept (N26)
 
 Buy me a cup of Coffee😁
 
-Bitcoin => 1LrCEk33KyY5CdtqRc5EFzQBEpDJnieg6n
+Bitcoin => 19KGTu2wYD85iV3LX9JuzCvdbpSyXhCiru
 
 Show some ❤️ and ⭐️ the repo.
 
